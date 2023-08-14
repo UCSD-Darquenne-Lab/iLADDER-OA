@@ -4,7 +4,7 @@
 
 <br>
 
-This GitHub repository contains human oral airway geometries developed and used by the in-silico LADDER team of investigators. You are welcome to download and use these geometries, but please cite the references associated with the downloaded models.
+This GitHub repository contains human oral airway geometries developed and used by the [in-silico LADDER](https://simtk.org/projects/insilico_ladder) team of investigators. You are welcome to download and use these geometries, but please cite the references associated with the downloaded models.
 
 The repository includes the oral airway of 7 healthy male subjects and 4 male subjects with COPD. Details are as follows:
 
