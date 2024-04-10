@@ -14,7 +14,7 @@ The repository includes the oral airway of 7 healthy male subjects and 4 male su
 
 **Segmentation**: based on intensity thresholding followed by visual validation and repair. 
 
-**Model**: Mouth, oropharynx, larynx, vocal cord, and upper tracheal region. Subregional regions (mouth, oropharynx, larynx, trachea) are identified.
+**Model**: Mouth, oropharynx, larynx, vocal cord, and upper tracheal region. Mouthpiece and tubing are also included in the model.
 
 **Mesh**: Hybrid prism/polyhedral volume meshes generated in ICEM-CFD 21.0 (~12 millions elements per model)
 
